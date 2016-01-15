@@ -3,5 +3,5 @@
 ```
 composer install
 php artisan migrate
-php db:seed
+php artisan db:seed
 ```
