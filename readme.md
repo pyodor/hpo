@@ -1,3 +1,5 @@
-# Laravel Quickstart - Task List With Authentication
+# HPO University
 
-Documentation In Progress.
+composer install
+php artisan migrate
+php db:seed
